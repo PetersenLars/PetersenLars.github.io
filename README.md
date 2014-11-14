@@ -1,3 +1,3 @@
-Lars Petersen Portfolio
+Portfolio of Lars Petersen
 ======================
 
